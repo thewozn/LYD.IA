@@ -1,0 +1,16 @@
+aller, DEST
+du, DEPT
+de, DEPT
+au, RET
+à, DEST
+destination, DEST
+partir, DEPT
+aujourd'hui, NOW
+jusqu'au, RET
+maintenant, NOW
+oui, AFF
+non, NEG
+affirmatif, AFF
+negatif, NEG
+négatif, NEG
+exact, AFF

@@ -1,0 +1,61 @@
+UNK_Je n'ai pas compris.
+UNK_Pouvez-vous être plus explicite?
+UNK_Si vous ne comprenez pas, regardez donc un peu ma documentation.
+UNK_Et vous, quel genre de réponse donneriez vous à cela?
+ASK_Que puis-je faire pour vous?
+NOP_Hmhm.
+NOP_Donc, où en étions-nous?
+NOP_Ne nous égarons pas.
+NOP_Je vous trouve un peu tactile tout de même.
+NOP_Nous n'avons pas élevé les cochons ensemble. Restez concentré.
+PRC_Pouvez-vous spécifier
+PRC_Puis-je connaître
+RES_Voici les vols
+FRM_Bonjour, où souhaitez-vous aller?
+FRM_Bonjour, que voulez-vous faire?
+FRM_Holà!
+END_Bon séjour à vous!
+END_Au revoir!
+END_En espérant vous avoir été utile!
+TMP_Laissez-moi voir ça...
+ORI_d'où vous partez?
+ORI_d'où vous souhaitez partir
+ORI_de quelle ville vous partez?
+DST_où vous souhaitez aller?
+DST_à quelle destination vous-vous rendez?
+DST_quelle ville vous souhaitez visiter?
+DPD_quand vous souhaitez partir?
+DPD_la date de départ de votre séjour?
+RED_la date de retour?
+RED_le jour où vous pensez rentrer?
+COM_Je vois je vois...
+COM_Ah, vous êtes décidé!
+COM_Laissez moi voir ce que je peux faire pour vous
+COM_C'est un bon choix!
+FIL_Très bien!
+FIL_Je prends cela en compte.
+FIL_C'est noté!
+FIL_Je retiens.
+NFI_Très bien, c'est oublié.
+NFI_Fais pas le fou avec moi je te le dis de suite.
+NFI_Bien, il n'y a que les imbéciles qui ne changent pas d'avis
+PRC2_Lequel?
+PRC2_Très bien, lequel?
+PRC2_De quel aéroport s'agit-il?
+PRC2SPEC_Oh laissez-moi deviner.. il s'agit de
+PRC2_Duquel voulez-vous parler?
+PRC2SPEC_Personnellement, je choisirais
+RECH_Je vais chercher en priorité des vols dans
+RECH_Laissez moi voir en priorité les vols à partir de
+RECH_Voyons ce que j'ai pour
+WAIT_Un petit instant je vous prie...
+WAIT_Patientez un petit moment, je regarde ça pour vous.
+WAIT_Attendez quelques secondes, je suis en train de regarder.
+GAM_Tenez, pour patienter: https://www.youtube.com/watch?v=KQhD6izHFgg&list=LLT-ZOY4K91JSQpo-Y6i1pLg&index=6&t=0s 
+GAM_Pour patienter: https://www.youtube.com/watch?v=j9FcEcbSOr0 lâchez un abonnement ou un pouce bleu au passage pour mon gars sur
+GAM_Pour patienter: https://www.youtube.com/watch?v=nf5i6xpaER0 lâchez un abonnement ou un pouce bleu au passage pour mon gars sur
+GAM2_Pour patienter, vous pouvez tenter de résoudre cette énigme:Un train part de Lyon, il fait du 60km/h.Au même moment, un autre train part de Rouen, il fait du 120km/h. Lorsqu'ils se croiseront, lequel des deux sera le plus proche de Paris? 
+GAM2_Dans le chalet de Bigfoot où la température est en dessous de 0, il y a des journaux, une cheminée, du petit bois, et une lampe à pétrole. Que devrait-il allumer en premier lieu ? 
+PRC3_Quels critères de recherche vous sont chers?
+PRC3_Peut être pouvons-nous affiner vôtre recherche? Que  voudriez-vous?
+PRC3_Avez vous des critères de recherche particuliers?

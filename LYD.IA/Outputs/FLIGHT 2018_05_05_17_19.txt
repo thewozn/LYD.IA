@@ -1,0 +1,56 @@
+RECAPITULATIF DE VOTRE REQUÊTE DU 2018_05_05_17_19
+______________________________________________________________
+
+Prix: 95 €
+Etape 1
+	 Proposé par Vueling
+	 De Barcelone, Espagne - Barcelone-El Prat le 22/5 à 16:25
+	 De Paris, France - Charles-de-Gaulle le 22/5 à 18:25
+	 Avec 1 escales.
+	 Durée totale : 2h 00min
+
+Etape 2
+	 Proposé par Vueling
+	 De Paris, France - Charles-de-Gaulle le 30/5 à 22:45
+	 De Barcelone, Espagne - Barcelone-El Prat le 31/5 à 00:30
+	 Avec 1 escales.
+	 Durée totale : 1h 45min
+
+
+
+
+
+Vous retrouverez ci-dessous le récapitulatif de votre dialogue avec LYD.IA
+
+______________________________________________________________
+
+[17:18:44] LID.IA : Holà!
+[17:18:44] LID.IA : Que puis-je faire pour vous?
+[17:18:44] > Je veux aller à Paris à partir de Barcelone
+[17:19:01] LID.IA : Vouliez-vous dire que vous partez de barcelona pour aller à paris?
+[17:19:01] > oui
+[17:19:03] LID.IA : Je retiens.
+[17:19:03] LID.IA : Puis-je connaître quand vous souhaitez partir??
+[17:19:03] > Le 05/22
+[17:19:08] LID.IA : Vouliez-vous dire que vous voulez partir le 2018-05-22?
+[17:19:08] > oui
+[17:19:10] LID.IA : C'est noté!
+[17:19:10] LID.IA : Puis-je connaître la date de retour??
+[17:19:10] > Le 05/30
+[17:19:13] LID.IA : Vouliez-vous dire que vous souhaitez revenir le 2018-05-30?
+[17:19:13] > oui
+[17:19:16] LID.IA : Je retiens.
+[17:19:16] LID.IA : Ah, vous êtes décidé!
+[17:19:16] LID.IA : La meteo sur PARIS en ce moment est: ciel dégagé. Il y fait environ 23 aujourd'hui.
+[17:19:16] LID.IA : Voici les aéroports disponibles à l'aller:
+[17:19:16] LID.IA : Avez vous-une préférence pour l'un de ces aéroports?
+[17:19:16] > non
+[17:19:18] LID.IA : C'est noté!
+[17:19:18] LID.IA : Patientez un petit moment, je regarde ça pour vous.
+[17:19:18] LID.IA : Dans le chalet de Bigfoot où la température est en dessous de 0, il y a des journaux, une cheminée, du petit bois, et une lampe à pétrole. Que devrait-il allumer en premier lieu ?
+[17:19:41] LID.IA : J'ai trouvé 34 plans de voyage correspondant à vos attentes.
+[17:19:41] LID.IA : Celui qui me semble le mieux répondre à vos attentes est celui-ci:
+[17:19:41] LID.IA : Cela vous convient-il?
+[17:19:41] > oui
+[17:19:46] LID.IA : Parfait. Vous trouverez le récapitulatif dans le fichier FLIGHT-date.txt
+[17:19:46] LID.IA : En espérant vous avoir été utile!

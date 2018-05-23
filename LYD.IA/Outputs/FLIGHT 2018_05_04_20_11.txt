@@ -1,0 +1,55 @@
+RECAPITULATIF DE VOTRE REQUÊTE DU 2018_05_04_20_11
+______________________________________________________________
+
+Prix: 438 €
+Etape 1
+	 Proposé par Air France
+	 De Paris, France - Charles-de-Gaulle le 20/5 à 10:20
+	 De Los Angeles, CA, États-Unis - Los Angeles le 20/5 à 12:50
+	 Avec 1 escales.
+	 Durée totale : 11h 30min
+
+Etape 2
+	 Proposé par Plusieurs compagnies
+	 De Los Angeles, CA, États-Unis - Los Angeles le 30/5 à 08:35
+	 De Paris, France - Charles-de-Gaulle le 31/5 à 11:10
+	 Avec 1 escales.
+	 Durée totale : 17h 35min
+
+
+
+
+
+Vous retrouverez ci-dessous le récapitulatif de votre dialogue avec LYD.IA
+
+______________________________________________________________
+
+[20:08:51] LID.IA : Holà!
+[20:08:51] LID.IA : Que puis-je faire pour vous?
+[20:08:51] > Je voudrais aller à Los-Angeles à partir de Paris du 05/20 au 05/30
+[20:08:57] LID.IA : Vouliez-vous dire que vous partez de paris le 2018-05-20 pour aller à los angeles pour revenir le 2018-05-30?
+[20:08:57] > exact
+[20:09:05] LID.IA : Je prends cela en compte.
+[20:09:05] LID.IA : Ah, vous êtes décidé!
+[20:09:05] LID.IA : Voici les aéroports disponibles à l'aller:
+[20:09:05] LID.IA : Avez vous-une préférence pour l'un de ces aéroports?
+[20:09:05] > non
+[20:09:08] LID.IA : Très bien!
+[20:09:08] LID.IA : Attendez quelques secondes, je suis en train de regarder.
+[20:09:08] LID.IA : Tenez, pour patienter: https://www.youtube.com/watch?v=KQhD6izHFgg&list=LLT-ZOY4K91JSQpo-Y6i1pLg&index=6&t=0s
+[20:10:07] LID.IA : J'ai trouvé 30 plans de voyage correspondant à vos attentes.
+[20:10:07] LID.IA : Celui qui me semble le mieux répondre à vos attentes est celui-ci:
+[20:10:07] LID.IA : Cela vous convient-il?
+[20:10:07] > non
+[20:10:15] LID.IA : Peut être pouvons-nous affiner vôtre recherche?
+[20:10:15] > euh oui pourquoi pas
+[20:10:30] LID.IA : Patientez un petit moment, je regarde ça pour vous.
+[20:10:30] LID.IA : Ce vol-ci vous convient-il mieux?
+[20:10:30] > mais non
+[20:10:40] LID.IA : Peut être pouvons-nous affiner vôtre recherche?
+[20:10:40] > un vol plus court, c'est possible?
+[20:11:33] LID.IA : Patientez un petit moment, je regarde ça pour vous.
+[20:11:33] LID.IA : Ce vol-ci vous convient-il mieux?
+[20:11:33] > oh oui
+[20:11:39] LID.IA : Parfait. Vous trouverez le récapitulatif dans le fichier FLIGHT-date.txt
+[20:11:39] LID.IA : Au revoir!
