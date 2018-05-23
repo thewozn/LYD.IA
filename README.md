@@ -1,7 +1,7 @@
 # LYD.IA
 
 Basic chatbot written in Python which purpose a flight after taking in account conversation-based details about user's speech. The conversation is in french only.
-Please note that the Chatbot is still in developpement, thus resulting in some incomplete features and word's recognition not being optimal, and some features might be upcoming to complete it.
+Please note that the Chatbot is still in developpement, thus resulting in some incomplete features and word's recognition not being optimal, although some features might be upcoming to complete it.
 
 ![image1](https://github.com/thewozn/LYD.IA/blob/master/img/Lydia.PNG)
 
