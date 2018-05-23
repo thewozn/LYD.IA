@@ -233,7 +233,7 @@ def main():
             
 
 
-        datesurface = currtime.render(datetime.now().strftime('%H:%M:%S'), False, (246, 246, 246))
+        #datesurface = currtime.render(datetime.now().strftime('%H:%M:%S'), False, (246, 246, 246))
         fenetre.blit(datesurface, (20, 50))
         
     
